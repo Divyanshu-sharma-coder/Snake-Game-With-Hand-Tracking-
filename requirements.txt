@@ -1,0 +1,33 @@
+1. Python Version:
+
+Python 3.8 or higher
+
+
+2. Libraries/Dependencies:
+
+pygame – For game rendering, animations, and GUI
+
+opencv-python (cv2) – For camera feed and frame processing
+
+numpy – For mathematical operations and array handling
+
+mediapipe – For real-time hand tracking and gesture detection
+
+
+3. Hardware Requirements:
+
+Webcam (built-in or external) for hand tracking
+
+Keyboard (for alternative controls)
+
+
+4. Optional:
+
+High-resolution monitor recommended for better HUD display
+
+GPU not required, but may improve Mediapipe performance
+
+
+5. Installation Command:
+
+pip install pygame opencv-python mediapipe numpy
