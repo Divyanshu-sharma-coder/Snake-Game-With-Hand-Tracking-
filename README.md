@@ -17,9 +17,12 @@ Control your snake using **hand gestures** or keyboard! Real-time hand tracking 
 # Clone the repository
 git clone https://github.com/Divyanshu-sharma-coder/Modern-Cyberpunk-AR-HUD.git
 cd Modern-Cyberpunk-AR-HUD
-
+```
 # Install dependencies
+```
 pip install -r requirements.txt
-
+```
 # Run the game
+```
 python cyberpunk_hud.py
+```
